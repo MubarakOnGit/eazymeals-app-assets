@@ -1,1 +1,12 @@
-{}
+{
+  "menu": [
+    {
+      "date": "27/04/2025",
+      "plan": "South Indian",
+      "meal BrutonType": "Lunch",
+      "dish": "Dosa",
+      "image": "https://example.com/dosa.jpg"
+    },
+    ...
+  ]
+}
