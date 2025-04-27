@@ -3,9 +3,23 @@
     {
       "date": "28/04/2025",
       "plan": "South Indian",
-      "meal BrutonType": "Lunch",
+      "mealType": "Lunch",
       "dish": "Dosa",
-      "image": "399c88b8-51ba-4c35-987d-f360bfd38415.jpeg"
+      "image": "https://example.com/dosa.jpg"
+    },
+    {
+      "date": "28/04/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Idli",
+      "image": "https://example.com/idli.jpg"
+    },
+    {
+      "date": "28/04/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Vegetable Biryani",
+      "image": "https://example.com/biryani.jpg"
     }
   ]
 }
