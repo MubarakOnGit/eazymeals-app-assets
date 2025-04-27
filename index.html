@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eazy Meals</title>
+</head>
+<body>
+  <h1>Welcome to Eazy Meals</h1>
+
+  <h2>Today's Meal</h2>
+  <img src="https://mubarakongit.github.io/eazymeals-app-assets/images/2025-05-01_lunch.jpg" alt="Lunch">
+  <p>Lunch: Chicken Burger</p>
+  <img src="https://mubarakongit.github.io/eazymeals-app-assets/images/2025-05-01_dinner.jpg" alt="Dinner">
+  <p>Dinner: Paneer Butter Masala</p>
+
+  <script>
+    // Example: Fetching meal data (JSON)
+    fetch('https://mubarakongit.github.io/eazymeals-app-assets/data/meal_plan.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log(data); // Log data for now
+      })
+      .catch(error => {
+        console.error('Error loading meal data:', error);
+      });
+  </script>
+</body>
+</html>
 
