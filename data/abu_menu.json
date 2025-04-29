@@ -1,1 +1,74 @@
-{}
+{
+  "categories": [
+    "Tea",
+    "Coffee",
+    "Snacks",
+    "Biryani"
+  ],
+  "menuItems": [
+    {
+      "name": "Abu's Special Karak",
+      "price": "1",
+      "description": "A bold, creamy blend with a hint of spice—Abu's secret recipe to warm your soul.",
+      "image": "https://images.unsplash.com/photo-1512568400610-62da28bc8a13",
+      "category": "Tea",
+      "rating": "4.8"
+    },
+    {
+      "name": "Samavar",
+      "price": "1",
+      "description": "Traditional, aromatic, and brewed with love—sip on centuries of tea culture.",
+      "image": "https://images.unsplash.com/photo-1603834315890-48f4b0c6e29b",
+      "category": "Tea",
+      "rating": "4.6"
+    },
+    {
+      "name": "Espresso",
+      "price": "2",
+      "description": "Rich and bold espresso to kickstart your day.",
+      "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131",
+      "category": "Coffee",
+      "rating": "4.7"
+    },
+    {
+      "name": "Pazhampori",
+      "price": "2",
+      "description": "Sweet ripe banana wrapped in crispy glory—Kerala's favorite comfort treat.",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "category": "Snacks",
+      "rating": "4.9"
+    },
+    {
+      "name": "Mini Chicken Dum Biryani",
+      "price": "3",
+      "description": "Small in size, big on flavor—fragrant rice and tender chicken.",
+      "image": "https://images.unsplash.com/photo-1569058242253-92d2749c15fc",
+      "category": "Biryani",
+      "rating": "4.7"
+    }
+  ],
+  "todaysSpecialCategories": [
+    "Tea",
+    "Snacks"
+  ],
+  "specialOffers": [
+    {
+      "name": "Abu's Special Karak",
+      "price": "1",
+      "description": "A bold, creamy blend with a hint of spice—Abu's secret recipe to warm your soul.",
+      "image": "https://images.unsplash.com/photo-1512568400610-62da28bc8a13",
+      "category": "Tea",
+      "rating": "4.8",
+      "discount": "15% OFF"
+    },
+    {
+      "name": "Pazhampori",
+      "price": "2",
+      "description": "Sweet ripe banana wrapped in crispy glory—Kerala's favorite comfort treat.",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "category": "Snacks",
+      "rating": "4.9",
+      "discount": "10% OFF"
+    }
+  ]
+}
