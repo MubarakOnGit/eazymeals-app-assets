@@ -1,25 +1,88 @@
 {
   "menu": [
     {
-      "date": "30/04/2025",
+      "date": "29/04/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Vegetable Biryani with Raita",
+      "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a"
+    },
+    {
+      "date": "29/04/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Palak Paneer with Naan",
+      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641"
+    },
+    {
+      "date": "29/04/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
-      "dish": "Dosa",
-      "image": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg"
+      "dish": "Masala Dosa with Sambar",
+      "image": "https://images.unsplash.com/photo-1631898030816-8a030a1e4d8a"
     },
     {
       "date": "29/04/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
-      "dish": "Idli",
-      "image": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg"
+      "dish": "Idli with Coconut Chutney",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
     },
     {
       "date": "29/04/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chole Bhature",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+    },
+    {
+      "date": "29/04/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Butter Chicken with Naan",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"
+    },
+    {
+      "date": "30/04/2025",
       "plan": "Veg",
       "mealType": "Lunch",
-      "dish": "Vegetable Biryani",
-      "image": "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg"
+      "dish": "Dal Tadka with Jeera Rice",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+    },
+    {
+      "date": "30/04/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Mix Veg with Roti",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c"
+    },
+    {
+      "date": "30/04/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Uttapam with Chutney",
+      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641"
+    },
+    {
+      "date": "30/04/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Pongal with Sambar",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+    },
+    {
+      "date": "30/04/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Rajma Chawal",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+    },
+    {
+      "date": "30/04/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Paneer Tikka Masala",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"
     }
   ]
 }
