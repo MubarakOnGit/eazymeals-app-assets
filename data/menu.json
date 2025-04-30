@@ -9,10 +9,24 @@
     },
     {
       "date": "01/05/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken 65 Biryani",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e"
+    },
+    {
+      "date": "01/05/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chicken Kadai with Poratta",
       "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"
+    },
+    {
+      "date": "01/05/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612"
     },
     {
       "date": "02/05/2025",
@@ -23,10 +37,24 @@
     },
     {
       "date": "02/05/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Jeera Rice with Chicken Roast",
+      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b"
+    },
+    {
+      "date": "02/05/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chilly Gobi with Chapathi",
       "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7"
+    },
+    {
+      "date": "02/05/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chilly Gobi with Chappathi",
+      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c"
     },
     {
       "date": "03/05/2025",
@@ -37,10 +65,24 @@
     },
     {
       "date": "03/05/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Hyderabadi Biryani",
+      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74"
+    },
+    {
+      "date": "03/05/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Butter Chicken with Poratta",
       "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a"
+    },
+    {
+      "date": "03/05/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Butter Chicken with Chappathi",
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e"
     },
     {
       "date": "04/05/2025",
@@ -51,10 +93,24 @@
     },
     {
       "date": "04/05/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Thalasseri Chicken Dum Biryani",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0"
+    },
+    {
+      "date": "04/05/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chicken Kolhapuri with Roomali Roti",
       "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c"
+    },
+    {
+      "date": "04/05/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Kumaragham Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2"
     },
     {
       "date": "05/05/2025",
@@ -65,10 +121,24 @@
     },
     {
       "date": "05/05/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fried Rice with Chilly Chicken",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300"
+    },
+    {
+      "date": "05/05/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Egg Masala with Chapathi",
       "image": "https://images.unsplash.com/photo-1620110260409-7b72b6c88fc3"
+    },
+    {
+      "date": "05/05/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Kurma with Chappathi",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2"
     },
     {
       "date": "06/05/2025",
@@ -79,10 +149,24 @@
     },
     {
       "date": "06/05/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fry (2pcs) with Sambar Thoran Rice",
+      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d"
+    },
+    {
+      "date": "06/05/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Mutton Curry with Poratta",
       "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+    },
+    {
+      "date": "06/05/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Beef Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845"
     },
     {
       "date": "07/05/2025",
@@ -93,10 +177,24 @@
     },
     {
       "date": "07/05/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Mandi",
+      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7"
+    },
+    {
+      "date": "07/05/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chicken Noodles",
       "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398"
+    },
+    {
+      "date": "07/05/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Noodles",
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f"
     },
     {
       "date": "08/05/2025",
