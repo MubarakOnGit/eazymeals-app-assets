@@ -75,7 +75,7 @@
       "name": "Black Coffee",
       "price": "1.5",
       "description": "Strong, bold, and unapologetic—pure energy in a cup for the true coffee lover.",
-      "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131",
+      "image": "https://images.pexels.com/photos/131893/pexels-photo-131893.jpeg",
       "category": "Coffee",
       "rating": "4.7"
     },
@@ -83,7 +83,7 @@
       "name": "Milk Coffee",
       "price": "2",
       "description": "Smooth and mellow with a creamy touch—where richness meets comfort, sip by sip.",
-      "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131",
+      "image": "https://images.pexels.com/photos/2089806/pexels-photo-2089806.jpeg",
       "category": "Coffee",
       "rating": "4.6"
     },
