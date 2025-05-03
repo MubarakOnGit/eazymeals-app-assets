@@ -1,1 +1,19 @@
-{}
+{
+  "onboarding_screens": [
+    {
+      "title": "Welcome to EazyMeals",
+      "description": "Savor delicious meals delivered straight to your door.",
+      "image_url": "https://raw.githubusercontent.com/MubarakOnGit/eazymeals-app-assets/main/onboarding/onboarding1.png"
+    },
+    {
+      "title": "Curate Your Menu",
+      "description": "Explore our diverse menu and pick your favorites.",
+      "image_url": "https://raw.githubusercontent.com/MubarakOnGit/eazymeals-app-assets/main/onboarding/onboarding2.png"
+    },
+    {
+      "title": "Swift Delivery",
+      "description": "Experience fast, reliable delivery every time.",
+      "image_url": "https://raw.githubusercontent.com/MubarakOnGit/eazymeals-app-assets/main/onboarding/onboarding3.png"
+    }
+  ]
+}
