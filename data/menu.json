@@ -1,61 +1,378 @@
 {
   "menu": [
+
     {
-      "date": "01/05/2025",
-      "plan": "North Indian",
+      "date": "03/05/2025",
+      "plan": "Veg",
       "mealType": "Lunch",
-      "dish": "Chicken 65 Biryani",
-      "image": "https://images.pexels.com/photos/9609840/pexels-photo-9609840.jpeg"
+      "dish": "Hyderabadi Veg Biryani",
+      "image": ""
     },
     {
-      "date": "01/05/2025",
-      "plan": "South Indian",
-      "mealType": "Lunch",
-      "dish": "Chicken 65 Biryani",
-      "image": "https://images.pexels.com/photos/9609840/pexels-photo-9609840.jpeg"
-    },
-    {
-      "date": "01/05/2025",
-      "plan": "North Indian",
+      "date": "03/05/2025",
+      "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Chicken Kadai with Poratta",
-      "image": "https://images.royoorders.com/insecure/fit/1000/1000/ce/0/plain/https%3A//s3.us-west-2.amazonaws.com/royoorders2.0-assets/prods/HY3IezHATycf51RHYclxC4pGqjwuhd5oF1P0dS76.jpg"
+      "dish": "Green Peas Kurma with Chappathi",
+      "image": ""
     },
     {
-      "date": "01/05/2025",
-      "plan": "South Indian",
-      "mealType": "Dinner",
-      "dish": "Chicken Curry with Poratta",
-      "image": "https://i.pinimg.com/736x/ed/cf/e9/edcfe9c61a7269952a4ed08b0e65de58.jpg"
-    },
-    {
-      "date": "02/05/2025",
-      "plan": "North Indian",
+      "date": "04/05/2025",
+      "plan": "Veg",
       "mealType": "Lunch",
-      "dish": "Jeera Rice with Chicken Roast",
-      "image": "https://premilashetty.wordpress.com/wp-content/uploads/2013/09/jeeracurry.png"
+      "dish": "Veg Pulao with Dal Makhani",
+      "image": ""
     },
     {
-      "date": "02/05/2025",
-      "plan": "South Indian",
-      "mealType": "Lunch",
-      "dish": "Jeera Rice with Chicken Roast",
-      "image": "https://premilashetty.wordpress.com/wp-content/uploads/2013/09/jeeracurry.png"
-    },
-    {
-      "date": "02/05/2025",
-      "plan": "North Indian",
+      "date": "04/05/2025",
+      "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Chilly Gobi with Chapathi",
-      "image": "https://i0.wp.com/paattiskitchen.com/wp-content/uploads/2023/01/kmc_20230114_225411.jpg"
+      "dish": "Veg Kolhapuri with Poratta",
+      "image": ""
     },
     {
-      "date": "02/05/2025",
-      "plan": "South Indian",
+      "date": "05/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Fried Rice with Chilly Gobi",
+      "image": ""
+    },
+    {
+      "date": "05/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Kurma with Chappathi",
+      "image": ""
+    },
+    {
+      "date": "06/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Dal Curry with Rice and Gobi 65",
+      "image": ""
+    },
+    {
+      "date": "06/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chana Masala with Poratta",
+      "image": ""
+    },
+    {
+      "date": "07/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Masala Bath",
+      "image": ""
+    },
+    {
+      "date": "07/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Set Dosa with Sambar and Chutney",
+      "image": ""
+    },
+
+    // Week 2 (8 May to 14 May)
+    {
+      "date": "08/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Gobi Mutter Masala",
+      "image": ""
+    },
+    {
+      "date": "08/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Stew with Poratta",
+      "image": ""
+    },
+    {
+      "date": "09/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Upperi, Gobi 65, and Sambar",
+      "image": ""
+    },
+    {
+      "date": "09/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Onion Dosa with Sambar and Chutney",
+      "image": ""
+    },
+    {
+      "date": "10/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani",
+      "image": ""
+    },
+    {
+      "date": "10/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Green Peas Masala with Chappathi",
+      "image": ""
+    },
+    {
+      "date": "11/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Sambar, Upperi, and Gobi Fry",
+      "image": ""
+    },
+    {
+      "date": "11/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Appam with Veg Stew",
+      "image": ""
+    },
+    {
+      "date": "12/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Peas Pulao with Veg Curry",
+      "image": ""
+    },
+    {
+      "date": "12/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Kurma with Poratta",
+      "image": ""
+    },
+    {
+      "date": "13/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Garlic Fried Rice and Salad Veg",
+      "image": ""
+    },
+    {
+      "date": "13/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Ghee Roast with Sambar and Chutney",
+      "image": ""
+    },
+    {
+      "date": "14/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani",
+      "image": ""
+    },
+    {
+      "date": "14/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Mushroom Masala with Poratta",
+      "image": ""
+    },
+
+    // Week 3 (15 May to 21 May)
+    {
+      "date": "15/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Masala Rice with Veg Curry",
+      "image": ""
+    },
+    {
+      "date": "15/05/2025",
+      "plan": "Veg",
       "mealType": "Dinner",
       "dish": "Chilly Gobi with Chappathi",
-      "image": "https://i0.wp.com/paattiskitchen.com/wp-content/uploads/2023/01/kmc_20230114_225411.jpg"
+      "image": ""
     },
+    {
+      "date": "16/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Jeera Rice with Veg Kadai",
+      "image": ""
+    },
+    {
+      "date": "16/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Masala Dosa with Sambar and Chutney",
+      "image": ""
+    },
+    {
+      "date": "17/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Tomato Rice with Chilly Gobi",
+      "image": ""
+    },
+    {
+      "date": "17/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Puri Bhaji",
+      "image": ""
+    },
+    {
+      "date": "18/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Pulao with Veg Curry",
+      "image": ""
+    },
+    {
+      "date": "18/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Gobi Masala with Poratta",
+      "image": ""
+    },
+    {
+      "date": "19/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Chennai Veg Biryani",
+      "image": ""
+    },
+    {
+      "date": "19/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Noodles",
+      "image": ""
+    },
+    {
+      "date": "20/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Sambar, Gobi 65, and Upperi",
+      "image": ""
+    },
+    {
+      "date": "20/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Mix Veg Curry with Chappathi",
+      "image": ""
+    },
+    {
+      "date": "21/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Green Peas Kurma",
+      "image": ""
+    },
+    {
+      "date": "21/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Palak with Poratta",
+      "image": ""
+    },
+
+    // Week 4 (22 May to 28 May)
+    {
+      "date": "22/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani with Raita and Salan",
+      "image": ""
+    },
+    {
+      "date": "22/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Plain Dosa with Sambar and Chutney",
+      "image": ""
+    },
+    {
+      "date": "23/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Veg Curry",
+      "image": ""
+    },
+    {
+      "date": "23/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chana Masala with Poratta",
+      "image": ""
+    },
+    {
+      "date": "24/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Moru Curry, Upperi, and Gobi 65",
+      "image": ""
+    },
+    {
+      "date": "24/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Kadai Veg with Chappathi",
+      "image": ""
+    },
+    {
+      "date": "25/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Tomato Rice with Sambar",
+      "image": ""
+    },
+    {
+      "date": "25/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Stew with Appam",
+      "image": ""
+    },
+    {
+      "date": "26/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Rasam, Upperi, and Gobi Fry",
+      "image": ""
+    },
+    {
+      "date": "26/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Mysore Masala Dosa with Sambar and Chutney",
+      "image": ""
+    },
+    {
+      "date": "27/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani",
+      "image": ""
+    },
+    {
+      "date": "27/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Gobi with Poratta",
+      "image": ""
+    },
+    {
+      "date": "28/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Green Peas Kurma",
+      "image": ""
+    },
+    {
+      "date": "28/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Idli Set with Sambar and Chutney",
+      "image": ""
+    }
+
+ 
     {
       "date": "03/05/2025",
       "plan": "North Indian",
