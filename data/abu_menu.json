@@ -48,31 +48,35 @@
       "description": "Zesty meets cozy! A refreshing citrus twist that’s equal parts tangy and soothing.",
       "image": "https://www.flavorsofmumbai.com/wp-content/uploads/2015/04/Lemon-Iced-Tea-Recipe-20.jpg",
       "category": "Tea",
-      "rating": "4.7"
+      "rating": "4.7",
+"adedd": "done"
     },
     {
       "name": "Mint Tea",
       "price": "1",
       "description": "Cool, calming, and oh-so-fresh—like a breath of crisp morning air in every sip.",
-      "image": "https://images.unsplash.com/photo-1603834315890-48f4b0c6e29b",
+      "image": "https://assets.tmecosys.com/video/upload/t_web_rdp_recipe_584x480/videos/UK/Manifesto/Statements/Our_kitchens_are_a_window_to_the_world/r338888_Moroccan_Mint_Tea.jpg",
       "category": "Tea",
-      "rating": "4.6"
+      "rating": "4.6",
+"adedd": "done"
     },
     {
       "name": "Milk Tea",
       "price": "1",
       "description": "Smooth, sweet, and satisfyingly creamy—comfort in a cup that feels like a warm hug.",
-      "image": "https://images.unsplash.com/photo-1603834315890-48f4b0c6e29b",
+      "image": "https://www.greedygirlgourmet.com/wp-content/uploads/2023/01/cup-of-japanese-milk-tea-homemade.jpg",
       "category": "Tea",
-      "rating": "4.8"
+      "rating": "4.8",
+"adedd": "done"
     },
     {
       "name": "Green Tea",
       "price": "1.5",
       "description": "Light, earthy, and full of zen—your go-to for a gentle boost and a moment of calm clarity.",
-      "image": "https://images.unsplash.com/photo-1603834315890-48f4b0c6e29b",
+      "image": "https://images.pexels.com/photos/3123792/pexels-photo-3123792.jpeg",
       "category": "Tea",
-      "rating": "4.5"
+      "rating": "4.5",
+"adedd": "done"
     },
     {
       "name": "Black Coffee",
@@ -80,7 +84,8 @@
       "description": "Strong, bold, and unapologetic—pure energy in a cup for the true coffee lover.",
       "image": "https://images.pexels.com/photos/131893/pexels-photo-131893.jpeg",
       "category": "Coffee",
-      "rating": "4.7"
+      "rating": "4.7",
+"adedd": "done"
     },
     {
       "name": "Milk Coffee",
@@ -88,23 +93,26 @@
       "description": "Smooth and mellow with a creamy touch—where richness meets comfort, sip by sip.",
       "image": "https://images.pexels.com/photos/2089806/pexels-photo-2089806.jpeg",
       "category": "Coffee",
-      "rating": "4.6"
+      "rating": "4.6",
+"adedd": "done"
     },
     {
       "name": "Paripp Vada",
       "price": "1",
       "description": "Crispy, golden, and packed with lentil crunch—South Indian street magic in every bite.",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "image": "https://therecipe.website/wp-content/uploads/2021/08/Parippu-Vada-Fritters.jpg",
       "category": "Snacks",
-      "rating": "4.8"
+      "rating": "4.8",
+"adedd": "done"
     },
     {
       "name": "Mulak Bajji",
       "price": "1.5",
       "description": "Spicy, deep-fried chili goodness—dare to bite into the heat with a smile!",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "image": "https://media.istockphoto.com/id/1374665203/photo/chilli-bajji-south-indian-snack.jpg",
       "category": "Snacks",
-      "rating": "4.7"
+      "rating": "4.7",
+"adedd": "done"
     },
     {
       "name": "Samoosa Chicken",
