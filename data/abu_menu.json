@@ -109,7 +109,7 @@
       "name": "Mulak Bajji",
       "price": "1.5",
       "description": "Spicy, deep-fried chili goodness—dare to bite into the heat with a smile!",
-      "image": "https://media.istockphoto.com/id/1374665203/photo/chilli-bajji-south-indian-snack.jpg",
+      "image": "https://mallucafe.online/wp-content/uploads/2022/01/stuffed-chilli-pakora-mirchi-pakoda-mirchi-vada-extremely-delicious-mouth-watering-snack-pakistani-indian-people_466689-72857.jpg",
       "category": "Snacks",
       "rating": "4.7",
 "adedd": "done"
@@ -118,65 +118,74 @@
       "name": "Samoosa Chicken",
       "price": "2",
       "description": "Crisp on the outside, juicy chicken inside—a triangle of irresistible flavor.",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "image": "https://images.pexels.com/photos/14883758/pexels-photo-14883758.jpeg",
       "category": "Snacks",
-      "rating": "4.9"
+      "rating": "4.9",
+"adedd": "done"
     },
     {
       "name": "Cutlet Chicken",
       "price": "2",
       "description": "Golden crust, tender chicken, and a burst of spices—snack time just got serious.",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "image": "https://www.pepperdelight.com/wp-content/uploads/2020/12/pepper-delight-beef-cutlet-1-scaled.jpg",
       "category": "Snacks",
-      "rating": "4.8"
+      "rating": "4.8",
+"adedd": "done"
     },
     {
       "name": "Pazhampori",
       "price": "2",
       "description": "Sweet ripe banana wrapped in crispy glory—Kerala’s favorite comfort treat.",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "image": "https://as2.ftcdn.net/v2/jpg/03/58/52/69/1000_F_358526911_C9N0C5zcKjnImXmWHm9ZmulkFnVvVvuY.jpg",
       "category": "Snacks",
-      "rating": "4.9"
+      "rating": "4.9",
+"adedd": "done"
     },
     {
       "name": "Pakoda Normal",
       "price": "2",
       "description": "Crunchy, spiced, and totally addictive—your classic tea-time bestie.",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2020/07/Onion-Pakoda-2-3.jpg",
       "category": "Snacks",
-      "rating": "4.7"
+      "rating": "4.7",
+      "adedd": "done"
     },
     {
       "name": "Mutta Bajji",
       "price": "2",
       "description": "Boiled egg hugged in spicy batter—crispy, savory, and oh-so-satisfying.",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "image": "https://i.ytimg.com/vi/EwLWOnwAr0g/maxresdefault.jpg",
       "category": "Snacks",
-      "rating": "4.8"
+      "rating": "4.8",
+      "adedd": "done"
     },
     {
       "name": "Normal Lime",
       "price": "3",
       "description": "Simple, zesty, and super refreshing—your classic thirst quencher.",
-      "image": "https://images.unsplash.com/photo-1560243563-0627d0e1ed00",
+      "image": "https://images.pexels.com/photos/4966100/pexels-photo-4966100.jpeg",
       "category": "Fruit Juices",
-      "rating": "4.6"
+      "rating": "4.6",
+"adedd": "done"
     },
     {
       "name": "Lemon Soda",
       "price": "3",
       "description": "Tangy lemon meets fizzy fun—bubbles that dance on your tongue!",
-      "image": "https://images.unsplash.com/photo-1560243563-0627d0e1ed00",
+      "image": "https://images.pexels.com/photos/5947087/pexels-photo-5947087.jpeg",
       "category": "Fruit Juices",
-      "rating": "4.7"
+      "rating": "4.7",
+"adedd": "done"
     },
     {
       "name": "Chilly Soda",
       "price": "3",
       "description": "Spicy, sparkly, and totally bold—soda with a wild side.",
-      "image": "https://images.unsplash.com/photo-1560243563-0627d0e1ed00",
+      "image": "https://rakskitchen.net/wp-content/uploads/2019/04/kanthari-soda-500x375.jpg",
       "category": "Fruit Juices",
-      "rating": "4.5"
+      "rating": "4.5",
+"adedd": "done"
+    
     },
     {
       "name": "Mint Lime",
