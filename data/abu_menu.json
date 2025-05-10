@@ -19,31 +19,34 @@
       "name": "Abu's Special Karak",
       "price": "1",
       "description": "A bold, creamy blend with a hint of spice—Abu’s secret recipe to warm your soul and brighten your day.",
-      "image": "https://images.unsplash.com/photo-1512568400610-62da28bc8a13",
+      "image": "https://filodessertco.com/cdn/shop/files/KarakTea.jpg",
       "category": "Tea",
-      "rating": "4.8"
+      "rating": "4.8",
+"adedd": "done"
     },
     {
       "name": "Samavar",
       "price": "1",
       "description": "Traditional, aromatic, and brewed with love—sip on centuries of tea culture in a single cup.",
-      "image": "https://images.unsplash.com/photo-1603834315890-48f4b0c6e29b",
+      "image": "https://healthwire.pk/wp-content/uploads/2022/09/calories-in-a-cup-of-tea.jpg",
       "category": "Tea",
-      "rating": "4.6"
+      "rating": "4.6",
+"adedd": "done"
     },
     {
       "name": "Black Tea",
       "price": "1",
       "description": "Classic and timeless, this rich brew packs the perfect punch to kickstart your morning or unwind your afternoon.",
-      "image": "https://images.unsplash.com/photo-1571931468289-7b68a6513a3f",
+      "image": "https://images.pexels.com/photos/1493080/pexels-photo-1493080.jpeg",
       "category": "Tea",
-      "rating": "4.5"
+      "rating": "4.5",
+"adedd": "done"
     },
     {
       "name": "Lime Tea",
       "price": "1",
       "description": "Zesty meets cozy! A refreshing citrus twist that’s equal parts tangy and soothing.",
-      "image": "https://images.unsplash.com/photo-1603834315890-48f4b0c6e29b",
+      "image": "https://www.flavorsofmumbai.com/wp-content/uploads/2015/04/Lemon-Iced-Tea-Recipe-20.jpg",
       "category": "Tea",
       "rating": "4.7"
     },
