@@ -746,32 +746,6 @@
     "Biryani"
   ],
   "specialOffers": [
-    {
-      "name": "Abu's Special Karak",
-      "price": "1",
-      "description": "A bold, creamy blend with a hint of spice—Abu’s secret recipe to warm your soul and brighten your day.",
-      "image": "https://images.unsplash.com/photo-1512568400610-62da28bc8a13",
-      "category": "Tea",
-      "rating": "4.8",
-      "discount": "15% OFF"
-    },
-    {
-      "name": "Pazhampori",
-      "price": "2",
-      "description": "Sweet ripe banana wrapped in crispy glory—Kerala’s favorite comfort treat.",
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
-      "category": "Snacks",
-      "rating": "4.9",
-      "discount": "10% OFF"
-    },
-    {
-      "name": "Mini Chicken Dum Biryani",
-      "price": "3",
-      "description": "Small in size, big on flavor—fragrant rice and tender chicken, slow-cooked to perfection.",
-      "image": "https://images.unsplash.com/photo-1569058242253-92d2749c15fc",
-      "category": "Biryani",
-      "rating": "4.7",
-      "discount": "20% OFF"
-    }
+    {""}
   ]
 }
