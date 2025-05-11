@@ -1,7 +1,5 @@
 {
   "menu": [
-
-   
     {
       "date": "11/05/2025",
       "plan": "Veg",
@@ -111,8 +109,8 @@
       "plan": "Veg",
       "mealType": "Dinner",
       "dish": "Onion Dosa with Sambar and Chutney",
-      "image"    :"https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg",
-"Added": "done"
+      "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg",
+      "Added": "done"
     },
     {
       "date": "18/05/2025",
@@ -157,7 +155,7 @@
     {
       "date": "20/05/2025",
       "plan": "Veg",
-      "mealType": "Dinner",
+      "phase": "Dinner",
       "dish": "Veg Kurma with Poratta",
       "image": "https://i0.wp.com/www.desifiesta.com/wp-content/uploads/2014/11/vegetablekurma3.jpg",
       "Added": "done"
@@ -418,10 +416,9 @@
       "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
       "Added": "done"
     },
-
     {
       "date": "11/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Hyderabadi Chicken Biryani",
       "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg",
@@ -429,7 +426,7 @@
     },
     {
       "date": "11/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Butter Chicken with Poratta",
       "image": "https://foodess.com/wp-content/uploads/2023/10/Curry-Chicken.jpg",
@@ -437,7 +434,7 @@
     },
     {
       "date": "12/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chicken Kolhapuri with Roomali Roti",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRsJE3-_ooblXyWbmaEAMpfeFcCvlLhOhXFbnZyaUTYCPeSHh_YMiLlNwKQLVeEgduZfsFGOVpwm2N2zfTsnDU91zzjEaMpJsKt_PolcqcspdmU5cOY4O_QgoOTkMPRauVpf8F/s1600/11.jpg",
@@ -445,7 +442,7 @@
     },
     {
       "date": "13/05/2025",
-      "plan " : "North Indian", 
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Egg Masala with Chapathi",
       "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2013/02/1.jpg",
@@ -453,7 +450,7 @@
     },
     {
       "date": "14/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Chicken Fry (2pcs) Dal Chana Masala Rice",
       "image": "https://khinskitchen.com/wp-content/uploads/2021/10/chicken-and-chickpea-curry-03.jpg",
@@ -461,7 +458,7 @@
     },
     {
       "date": "14/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Mutton Curry with Poratta",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDGLhop2h2mHbuE2LxDLvAaxhuLgtD2p__DJeYtH2wWGa820tK8_yg8Dh687I0AX3Ogf3v5SzlWJUTNp1gs3xs1WCuDKjcAf87-C_8O6qrfcdckFyIa-55F0dVsLq3tX1zgE085jjzsdyJ/s1600/2015-12-29_12.17.24.jpg",
@@ -469,7 +466,7 @@
     },
     {
       "date": "15/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Saffron Pulao with Kesari",
       "image": "https://www.saffrontrail.com/wp-content/uploads/2016/10/saffron-rice-with-fruits-and-nuts.1024x1024.jpg",
@@ -477,7 +474,7 @@
     },
     {
       "date": "15/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chicken Noodles",
       "image": "https://i0.wp.com/www.happyandharried.com/wp-content/uploads/2017/06/SPICY-SCHEZWAN-CHICKEN-NOODLES-HAPPYHARRIED.jpg",
@@ -485,7 +482,7 @@
     },
     {
       "date": "16/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Ghee Rice with Chicken Kaalimirch",
       "image": "https://flavorquotient.com/wp-content/uploads/2023/05/Chicken-Kali-Mirch-EIR-5-1.jpg",
@@ -493,7 +490,7 @@
     },
     {
       "date": "16/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Aloo Gobi with Chapathi",
       "image": "https://i0.wp.com/spicediary.com/wp-content/uploads/2018/02/GobiAlooED3.png?ssl=1",
@@ -501,15 +498,15 @@
     },
     {
       "date": "17/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
-      "dish": "Kashmiri Pulao with Chicken Nabaavi",
+      "dish": "Kashmiri Pulao with Chicken N seized",
       "image": "https://foodfusion.com/wp-content/uploads/2019/06/Kashmiri-Chicken-Pulao-Recipe-by-food-fusion-5.jpg",
       "Added": "done"
     },
     {
       "date": "17/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Murgh Makhani with Poratta",
       "image": "https://www.harighotra.co.uk/images/recipes/hero/murgh-makhani-hero.jpg",
@@ -517,7 +514,7 @@
     },
     {
       "date": "18/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Muradabadi Dum Biryani with Raitha and Mirchi Salan",
       "image": "https://ranveerbrar.com/wp-content/uploads/2024/04/muradabadi-biryani.jpg",
@@ -525,7 +522,7 @@
     },
     {
       "date": "18/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Egg Roast with Roomali Roti",
       "image": "https://cdn.dotpe.in/longtail/store-items/1008509/9sahfJBK.jpeg",
@@ -533,7 +530,7 @@
     },
     {
       "date": "19/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Veg Noodles with Chicken Manchurian",
       "image": "https://ubfoody.com/wp-content/uploads/2023/02/Chicken-Manchurian-Noodles.jpg",
@@ -541,7 +538,7 @@
     },
     {
       "date": "19/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Poori Bhaji",
       "image": "https://www.awesomecuisine.com/wp-content/uploads/2020/03/poori-masala-kizhangu.jpg",
@@ -549,7 +546,7 @@
     },
     {
       "date": "20/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Peas Pulao with Chicken Dopyasa",
       "image": "https://ranveerbrar.com/wp-content/uploads/2021/04/Berry-Pulao.jpg",
@@ -557,7 +554,7 @@
     },
     {
       "date": "20/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chole Bhature",
       "image": "https://thewhiskaddict.com/wp-content/uploads/2024/08/IMG_0727-4-scaled.jpg",
@@ -565,7 +562,7 @@
     },
     {
       "date": "21/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Garlic Fried Rice with Chilly Chicken",
       "image": "https://myblacktree.com/cdn/shop/files/a029e1ba-a073-4fc0-bdea-5b7393a1ad7b-removebg-preview.png",
@@ -573,7 +570,7 @@
     },
     {
       "date": "21/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Green Peas Masala with Poratta",
       "image": "https://recipesaresimple.com/wp-content/uploads/2022/12/Kerala-Green-Peas-Masala-recipe.jpg",
@@ -581,7 +578,7 @@
     },
     {
       "date": "22/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Chicken Dum Biryani",
       "image": "https://figarooliveoil.com/wp-content/uploads/2022/02/chicken-dum-biryani-2.png",
@@ -589,7 +586,7 @@
     },
     {
       "date": "22/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chicken Kali Mirchi with Chapathi",
       "image": "https://www.savoryandsweetfood.com/wp-content/uploads/2021/10/E6CAE7B3-3737-42D5-A68F-9DF0A36CF71B-scaled.jpeg",
@@ -597,7 +594,7 @@
     },
     {
       "date": "23/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Masala Rice with Chicken Punjabi",
       "image": "https://www.cookingandcooking.com/cook-db/pictures/Chicken-Masala-Rice.jpg",
@@ -605,7 +602,7 @@
     },
     {
       "date": "23/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chilly Chicken with Roomali Roti",
       "image": "https://img-global.cpcdn.com/recipes/58d558d8c0de31f7/680x482cq70/chilli-chicken-with-plan-roti-recipe-main-photo.jpg",
@@ -613,7 +610,7 @@
     },
     {
       "date": "24/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Jeera Pulao with Kadai Chicken",
       "image": "https://i0.wp.com/www.himanshudhaba.com/wp-content/uploads/2018/06/butter-chicken4pcs-with-jeera-ricesalad_chutney.jpg",
@@ -621,7 +618,7 @@
     },
     {
       "date": "24/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Garlic Chicken with Chapathi",
       "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c",
@@ -629,7 +626,7 @@
     },
     {
       "date": "25/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Tomato Rice with Chicken Simla Mirchi",
       "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c",
@@ -637,7 +634,7 @@
     },
     {
       "date": "25/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chicken Masala with Poratta",
       "image": "https://images.unsplash.com/photo-1620110260409-7b72b6c88fc3",
@@ -645,7 +642,7 @@
     },
     {
       "date": "26/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Palak Chicken with Veg Pulao",
       "image": "https://images.unsplash.com/photo-1620110260409-7b72b6c88fc3",
@@ -653,7 +650,7 @@
     },
     {
       "date": "26/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Egg Curry with Chapathi",
       "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
@@ -661,7 +658,7 @@
     },
     {
       "date": "27/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Egg Biryani with Raitha and Salan",
       "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
@@ -669,7 +666,7 @@
     },
     {
       "date": "27/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Noodles with Chicken Fry (2pcs)",
       "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
@@ -677,7 +674,7 @@
     },
     {
       "date": "28/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Chicken Fried Dum Biryani",
       "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
@@ -685,7 +682,7 @@
     },
     {
       "date": "28/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Mutton Masala with Poratta",
       "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
@@ -693,7 +690,7 @@
     },
     {
       "date": "29/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "White Rice with Dal and Chicken Fry (2pcs)",
       "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
@@ -701,7 +698,7 @@
     },
     {
       "date": "29/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Kadai Veg with Chapathi",
       "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
@@ -709,7 +706,7 @@
     },
     {
       "date": "30/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Mint Onion Pulao with Malai Chicken",
       "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
@@ -717,7 +714,7 @@
     },
     {
       "date": "30/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Bedmi Poori with Bhaji",
       "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c",
@@ -725,7 +722,7 @@
     },
     {
       "date": "31/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Sabji Pulao with Tawa Chicken",
       "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c",
@@ -733,7 +730,7 @@
     },
     {
       "date": "31/05/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Dumka Chicken with Poratta",
       "image": "https://images.unsplash.com/photo-1620110260409-7b72b6c88fc3",
@@ -741,7 +738,7 @@
     },
     {
       "date": "01/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Lakhnawi Chicken Biryani with Raitha and Salan",
       "image": "https://images.unsplash.com/photo-1620110260409-7b72b6c88fc3",
@@ -749,7 +746,7 @@
     },
     {
       "date": "01/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Mughlai Chicken with Chapathi",
       "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
@@ -757,15 +754,15 @@
     },
     {
       "date": "02/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Schezwan Chicken Fried Rice with Ketchup",
-      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "image": "https triple backslash images.unsplash.com/photo-1601050690597-df0568f70950",
       "Added": "done"
     },
     {
       "date": "02/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Egg Butter Masala with Poratta",
       "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
@@ -773,15 +770,15 @@
     },
     {
       "date": "03/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Curd Rice with Onion Pakoda and Pickle",
-      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2jhbsdkabfkgahiruh kewjndi387y4873yr6%##$$#@@%$Egvjhsfae398",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
       "Added": "done"
     },
     {
       "date": "03/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Mutton Kaalimirchi with Roomali Roti",
       "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
@@ -789,7 +786,7 @@
     },
     {
       "date": "04/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Jeera Pulao with Chicken Korma",
       "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
@@ -797,7 +794,7 @@
     },
     {
       "date": "04/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Chicken Schezwan Noodles with Ketchup",
       "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
@@ -805,7 +802,7 @@
     },
     {
       "date": "05/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Steam Rice with Dal Palak and Chicken 65",
       "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
@@ -813,7 +810,7 @@
     },
     {
       "date": "05/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Dinner",
       "dish": "Murgh Makhani with Poratta",
       "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c",
@@ -821,7 +818,7 @@
     },
     {
       "date": "06/06/2025",
-      "plan " : "North Indian",
+      "plan": "North Indian",
       "mealType": "Lunch",
       "dish": "Murgh Makhani with Poratta",
       "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c",
@@ -832,392 +829,448 @@
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chicken 65 Biryani",
-      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e"
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
     },
     {
       "date": "11/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chicken Curry with Poratta",
-      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612"
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
     },
     {
       "date": "12/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Jeera Rice with Chicken Roast",
-      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612"
+      "image": "https://images.unsplash.com/photo-160875 alerted6021662-35b1f8220612",
+      "Added": "done"
     },
     {
       "date": "12/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chilly Gobi with Chappathi",
-      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b"
+      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b",
+      "Added": "done"
     },
     {
       "date": "13/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chicken Hyderabadi Biryani",
-      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b"
+      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b",
+      "Added": "done"
     },
     {
       "date": "13/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Butter Chicken with Chappathi",
-      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c"
+      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c",
+      "Added": "done"
     },
     {
       "date": "14/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Thalasseri Chicken Dum Biryani",
-      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c"
+      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c",
+      "Added": "done"
     },
     {
       "date": "14/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Kumaragham Chicken Curry with Poratta",
-      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74"
+      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74",
+      "Added": "done"
     },
     {
       "date": "15/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chicken Fried Rice with Chilly Chicken",
-      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74"
+      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74",
+      "Added": "done"
     },
     {
       "date": "15/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Egg Kurma with Chappathi",
-      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e"
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
     },
     {
       "date": "16/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chicken Fry (2pcs) with Sambar Thoran Rice",
-      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e"
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
     },
     {
       "date": "16/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Beef Curry with Poratta",
-      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0"
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
     },
     {
       "date": "17/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chicken Mandi",
-      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0"
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
     },
     {
       "date": "17/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chicken Noodles",
-      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2"
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2",
+      "Added": "done"
     },
     {
       "date": "18/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Ghee Rice with Chicken Pepper Masala",
-      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2"
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2",
+      "Added": "done"
     },
     {
       "date": "18/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chicken Mappas with Chappathi",
-      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300"
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
     },
     {
       "date": "19/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Meals with Chicken Fry (2pcs) Thoran and Sambar",
-      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300"
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
     },
     {
       "date": "19/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Egg Roast with Romali",
-      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2"
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
     },
     {
       "date": "20/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Mysore Chicken Biryani",
-      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2"
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
     },
     {
       "date": "20/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Green Peas with Poratta",
-      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d"
+      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d",
+      "Added": "done"
     },
     {
       "date": "21/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Veg Noodles with Chicken Manchurian",
-      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d"
+      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d",
+      "Added": "done"
     },
     {
       "date": "21/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Puri Bhaji",
-      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845"
+      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845",
+      "Added": "done"
     },
     {
       "date": "22/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chicken Dum Biryani",
-      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845"
+      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845",
+      "Added": "done"
     },
     {
       "date": "22/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Malabar Chicken with Chappathi",
-      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7"
+      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7",
+      "Added": "done"
     },
     {
       "date": "23/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chilly Chicken with Garlic Fried Rice",
-      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7"
+      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7",
+      "Added": "done"
     },
     {
       "date": "23/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chana Masala with Battora",
-      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f"
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
+      "Added": "done"
     },
     {
       "date": "24/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Fried Chicken Dumplings Biryani",
-      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f"
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
+      "Added": "done"
     },
     {
       "date": "24/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Green Peas Masala with Poratta",
-      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e"
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
     },
     {
       "date": "25/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Irachi Choru",
-      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e"
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
     },
     {
       "date": "25/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chilly Chicken with Veg Fried Rice",
-      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612"
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
     },
     {
       "date": "26/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Ghee Rice with Chicken Peralan",
-      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612"
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
     },
     {
       "date": "26/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Egg Kurma with Poratta",
-      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b"
+      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b",
+      "Added": "done"
     },
     {
       "date": "27/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Meals with Thoran, Sambar & Chicken Fry (2pcs)",
-      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b"
+      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b",
+      "Added": "done"
     },
     {
       "date": "27/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Garlic Chicken with Chappathi",
-      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c"
+      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c",
+      "Added": "done"
     },
     {
       "date": "28/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Veg Pulao with Chicken Kondattam",
-      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c"
+      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c",
+      "Added": "done"
     },
     {
       "date": "28/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chicken Tikka Masala with Poratta",
-      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74"
+      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74",
+      "Added": "done"
     },
     {
       "date": "29/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chennai Egg Biryani",
-      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74"
+      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74",
+      "Added": "done"
     },
     {
       "date": "29/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chicken Noodles",
-      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e"
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
     },
     {
       "date": "30/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chennai Dum Biryani",
-      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e"
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
     },
     {
       "date": "30/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Beef Curry with Chappathi",
-      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0"
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
     },
     {
       "date": "31/05/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "White Rice, Sambar, Chana Thoran & Chicken Fry (2pcs)",
-      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0"
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
     },
     {
       "date": "31/05/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chettinad Chicken with Poratta",
-      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2"
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2",
+      "Added": "done"
     },
     {
       "date": "01/06/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chicken Mandi",
-      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2"
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2",
+      "Added": "done"
     },
     {
       "date": "01/06/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Neelagiri Kurma with Chappathi",
-      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300"
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
     },
     {
       "date": "02/06/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Chicken Majboos",
-      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300"
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
     },
     {
       "date": "02/06/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "3pcs Appam with Chicken Istoo",
-      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2"
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
     },
     {
       "date": "03/06/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Ghee Rice with Chicken Curry",
-      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2"
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
     },
     {
       "date": "03/06/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Mysore Masala Dosa",
-      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d"
+      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d",
+      "Added": "done"
     },
     {
       "date": "04/06/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Meals with Moru Curry, Cabbage Upperi & Fish Fry",
-      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d"
+      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d",
+      "Added": "done"
     },
     {
       "date": "04/06/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chicken Varattarachathu with Poratta",
-      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845"
+      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845",
+      "Added": "done"
     },
     {
       "date": "05/06/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "White Rice with Beetroot Upperi, Rasam & Fish Kuzhambu",
-      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845"
+      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845",
+      "Added": "done"
     },
     {
       "date": "05/06/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Idly Sambar with Chutney",
-      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7"
+      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7",
+      "Added": "done"
     },
     {
       "date": "06/06/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "Coimbatore Biryani",
-      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7"
+      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7",
+      "Added": "done"
     },
     {
       "date": "06/06/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Naadan Chicken Curry with Neypathal",
-      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f"
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
+      "Added": "done"
     },
     {
       "date": "07/06/2025",
       "plan": "South Indian",
       "mealType": "Lunch",
       "dish": "White Rice with Chicken Curry & Upperi",
-      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f"
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
+      "Added": "done"
     },
     {
       "date": "07/06/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
       "dish": "Chicken Chukka with Poratta",
-      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e"   
-}
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    }
   ]
 }
