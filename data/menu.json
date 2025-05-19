@@ -1,5 +1,53 @@
 {
   "menu": [
+{
+      "date": "19/05/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Starting from 20th",
+      "image": "https://rajscorner.com.au/wp-content/uploads/2023/12/eb310049-7277-4156-b9a3-5a8b7b317116.png",
+      "Added": "done"
+    },
+    {
+      "date": "19/05/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Starting from 20th",
+      "image": "https://rajscorner.com.au/wp-content/uploads/2023/12/eb310049-7277-4156-b9a3-5a8b7b317116.png",
+      "Added": "done"
+    },
+    {
+      "date": "19/05/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Starting from 20th",
+      "image": "https://shef.com/homemade-food/wp-content/uploads/62460e1038486f1fc22ce529_33726b86.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/05/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Starting from 20th",
+      "image": "https://shef.com/homemade-food/wp-content/uploads/62460e1038486f1fc22ce529_33726b86.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/05/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Starting from 20th",
+      "image": "https://www.veganfoodandliving.com/wp-content/uploads/2024/02/Indian-vegan-recipes.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/05/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Starting from 20th",
+      "image": "https://www.veganfoodandliving.com/wp-content/uploads/2024/02/Indian-vegan-recipes.jpg",
+      "Added": "done"
+    },
     {
       "date": "20/05/2025",
       "plan": "North Indian",
