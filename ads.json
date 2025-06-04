@@ -3,5 +3,5 @@
   "show_per_day": 0,
   "show_button": true,
   "button_link": "https://eazy-web-app.web.app",
-  "clear": false
+  "clear": true
 }
