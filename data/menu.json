@@ -221,7 +221,7 @@
       "date": "02/06/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
-      "dish": "3pcs Appam with Chicken Istoo",
+      "dish": "3pcs Chappathi with Chicken Istoo",
       "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
       "Added": "done"
     },
@@ -237,7 +237,7 @@
       "date": "02/06/2025",
       "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Veg Stew with Appam",
+      "dish": "Veg Stew with Chappathi",
       "image": "https://bestrecipesofindia.com/wp-content/uploads/2024/04/IMG_0935.jpg",
       "Added": "done"
     },
@@ -381,7 +381,7 @@
       "date": "05/06/2025",
       "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Idli Set with Sambar and Chutney",
+      "dish": "Dosha Set with Sambar and Chutney",
       "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
       "Added": "done"
     },
@@ -806,7 +806,7 @@
       "plan": "Veg",
       "mealType": "Lunch",
       "dish": "White Rice with Upperi, Gobi 65, and Sambar",
-      "image": "https://img-global.cpcdn.com/recipes/5878a96e6ea0c30b/200x200cq70/south-indian-platter-sambhar-rice-idli-vada-recipe-main-photo.jpg",
+      "image": "https://img-global.cpcdn.com/recipes/5878a96e6ea0c30b/200x200cq70/south-indian-platter-sambhar-rice-Dosha-vada-recipe-main-photo.jpg",
       "Added": "done"
     },
     {
@@ -909,8 +909,8 @@
       "date": "16/06/2025",
       "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Appam with Veg Stew",
-      "image": "https://icorganicstore.com/wp-content/uploads/2022/10/Appam-Stew-scaled.jpg",
+      "dish": "Chappathi with Veg Stew",
+      "image": "https://icorganicstore.com/wp-content/uploads/2022/10/Chappathi-Stew-scaled.jpg",
       "Added": "done"
     },
     {
@@ -1725,7 +1725,7 @@
       "date": "03/07/2025",
       "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Idli Set with Sambar and Chutney",
+      "dish": "Dosha Set with Sambar and Chutney",
       "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
       "Added": "done"
     },
@@ -1821,7 +1821,7 @@
       "date": "05/07/2025",
       "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Veg Stew with Appam",
+      "dish": "Veg Stew with Chappathi",
       "image": "https://bestrecipesofindia.com/wp-content/uploads/2024/04/IMG_0935.jpg",
       "Added": "done"
     },
@@ -1853,7 +1853,7 @@
       "date": "06/07/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
-      "dish": "3pcs Appam with Chicken Istoo",
+      "dish": "3pcs Chappathi with Chicken Istoo",
       "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
       "Added": "done"
     },
@@ -1869,7 +1869,7 @@
       "date": "06/07/2025",
       "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Jon Sambar and Chutney",
+      "dish": "Dosha Sambar and Chutney",
       "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2019/Id_Fresh_Masala_Dosa_Recipe_With_Sambar_and_Chutney_2.jpg",
       "Added": "done"
     },
@@ -2061,8 +2061,8 @@
       "date": "10/07/2025",
       "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Appam with Veg Stew",
-      "image": "https://icorganicstore.com/wp-content/uploads/2022/10/Appam-Stew-scaled.jpg",
+      "dish": "Chappathi with Veg Stew",
+      "image": "https://icorganicstore.com/wp-content/uploads/2022/10/Chappathi-Stew-scaled.jpg",
       "Added": "done"
     },
     {
@@ -2877,7 +2877,7 @@
       "date": "27/07/2025",
       "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Idli Set with Sambar and Chutney",
+      "dish": "Dosha Set with Sambar and Chutney",
       "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
       "Added": "done"
     },
@@ -2973,7 +2973,7 @@
       "date": "29/07/2025",
       "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Veg Stew with Appam",
+      "dish": "Veg Stew with Chappathi",
       "image": "https://bestrecipesofindia.com/wp-content/uploads/2024/04/IMG_0935.jpg",
       "Added": "done"
     },
@@ -3005,7 +3005,7 @@
       "date": "30/07/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
-      "dish": "3pcs Appam with Chicken Istoo",
+      "dish": "3pcs Chappathi with Chicken Istoo",
       "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
       "Added": "done"
     },
@@ -3021,7 +3021,7 @@
       "date": "30/07/2025",
       "plan": "Veg",
       "mealType": "Dinner",
-      "dish": "Jon Sambar and Chutney",
+      "dish": "Dosha Sambar and Chutney",
       "image": "https://www.archanaskitchen.com/images/archanaskitchenabah/0-Archanas-Kitchen-Recipes/2019/Id_Fresh_Masala_Dosa_Recipe_With_Sambar_and_Chutney_2.jpg",
       "Added": "done"
     },
