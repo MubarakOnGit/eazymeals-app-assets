@@ -253,7 +253,7 @@
       "date": "03/06/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
-      "dish": "Mutton Kaalimirchi with Chappathi",
+      "dish": "Chicken Kaalimirchi with Chappathi",
       "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
       "Added": "done"
     },
@@ -365,7 +365,7 @@
       "date": "05/06/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
-      "dish": "Idly Sambar with Chutney",
+      "dish": "Dosha Sambar with Chutney",
       "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
       "Added": "done"
     },
@@ -413,7 +413,7 @@
       "date": "06/06/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
-      "dish": "Naadan Chicken Curry with Neypathal",
+      "dish": "Naadan Chicken Curry with Poratta",
       "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
       "Added": "done"
     },
@@ -637,7 +637,7 @@
       "date": "11/06/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
-      "dish": "Mutton Curry with Poratta",
+      "dish": "Chicken Curry with Poratta",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDGLhop2h2mHbuE2LxDLvAaxhuLgtD2p__DJeYtH2wWGa820tK8_yg8Dh687I0AX3Ogf3v5SzlWJUTNp1gs3xs1WCuDKjcAf87-C_8O6qrfcdckFyIa-55F0dVsLq3tX1zgE085jjzsdyJ/s1600/2015-12-29_12.17.24.jpg",
       "Added": "done"
     },
@@ -1309,8 +1309,8 @@
       "date": "25/06/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
-      "dish": "Mutton Masala with Poratta",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/2d/58/1b/mutton-pepper-fry-with.jpg",
+      "dish": "Chicken Masala with Poratta",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/2d/58/1b/Chicken-pepper-fry-with.jpg",
       "Added": "done"
     },
     {
@@ -1453,7 +1453,7 @@
       "date": "28/06/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
-      "dish": "Mutton Curry with Poratta",
+      "dish": "Chicken Curry with Poratta",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDGLhop2h2mHbuE2LxDLvAaxhuLgtD2p__DJeYtH2wWGa820tK8_yg8Dh687I0AX3Ogf3v5SzlWJUTNp1gs3xs1WCuDKjcAf87-C_8O6qrfcdckFyIa-55F0dVsLq3tX1zgE085jjzsdyJ/s1600/2015-12-29_12.17.24.jpg",
       "Added": "done"
     },
@@ -1661,7 +1661,7 @@
       "date": "02/07/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
-      "dish": "Naadan Chicken Curry with Neypathal",
+      "dish": "Naadan Chicken Curry with Poratta",
       "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
       "Added": "done"
     },
@@ -1709,7 +1709,7 @@
       "date": "03/07/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
-      "dish": "Idly Sambar with Chutney",
+      "dish": "Dosha Sambar with Chutney",
       "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
       "Added": "done"
     },
@@ -1789,7 +1789,7 @@
       "date": "05/07/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
-      "dish": "Mutton Kaalimirchi with Chappathi",
+      "dish": "Chicken Kaalimirchi with Chappathi",
       "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
       "Added": "done"
     },
@@ -2461,8 +2461,8 @@
       "date": "19/07/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
-      "dish": "Mutton Masala with Poratta",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/2d/58/1b/mutton-pepper-fry-with.jpg",
+      "dish": "Chicken Masala with Poratta",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/2d/58/1b/Chicken-pepper-fry-with.jpg",
       "Added": "done"
     },
     {
@@ -2605,7 +2605,7 @@
       "date": "22/07/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
-      "dish": "Mutton Curry with Poratta",
+      "dish": "Chicken Curry with Poratta",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDGLhop2h2mHbuE2LxDLvAaxhuLgtD2p__DJeYtH2wWGa820tK8_yg8Dh687I0AX3Ogf3v5SzlWJUTNp1gs3xs1WCuDKjcAf87-C_8O6qrfcdckFyIa-55F0dVsLq3tX1zgE085jjzsdyJ/s1600/2015-12-29_12.17.24.jpg",
       "Added": "done"
     },
@@ -2813,7 +2813,7 @@
       "date": "26/07/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
-      "dish": "Naadan Chicken Curry with Neypathal",
+      "dish": "Naadan Chicken Curry with Poratta",
       "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
       "Added": "done"
     },
@@ -2861,7 +2861,7 @@
       "date": "27/07/2025",
       "plan": "South Indian",
       "mealType": "Dinner",
-      "dish": "Idly Sambar with Chutney",
+      "dish": "Dosha Sambar with Chutney",
       "image": "https://t4.ftcdn.net/jpg/04/39/31/29d_439312939_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQ.jpg",
       "Added": "done"
     },
@@ -2941,7 +2941,7 @@
       "date": "29/07/2025",
       "plan": "North Indian",
       "mealType": "Dinner",
-      "dish": "Mutton Kaalimirchi with Chappathi",
+      "dish": "Chicken Kaalimirchi with Chappathi",
       "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
       "Added": "done"
     },
